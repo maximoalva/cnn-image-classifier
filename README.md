@@ -17,7 +17,7 @@ The project utilizes a dataset of natural scenes, which is automatically downloa
 
 ---
 
-## Architectures Evaluated
+## Architectures
 To establish a performance baseline and analyze the evolution of computer vision models, four distinct architectures were developed and tested:
 
 1.  **Dense Layers Model (MLP):** A baseline model relying purely on fully connected Dense layers to demonstrate the limitations of flattening spatial data without convolutional feature extraction.
